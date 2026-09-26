@@ -262,7 +262,7 @@ The model updates its weights using gradients to reduce the prediction error.
 
 Student-Performance-Analysis/
 │
-├── Student_Performance_Analysis_According_to_Notes.ipynb
+├── Student_Performance_Analysis.ipynb
 ├── student_data.csv
 ├── README.md
 └── requirements.txt
